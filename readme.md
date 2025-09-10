@@ -96,20 +96,20 @@ market-forecast-app/
    ```
 
 5. **Open in Browser**
-   - The app will automatically open at `http://localhost:8501`
+   - The app will automatically open at `http://localhost:8504`
 
 ### 🚀 Deploy on Streamlit Cloud
 
 1. **Fork the Repository**
    ```bash
    # Fork from GitHub
-   https://github.com/techiepookie/StockAI-predictor-pro
+   https://https://github.com/gagan23baghel/StockAi-Predictor
    ```
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/StockAI-predictor-pro.git
-   cd StockAI-predictor-pro
+   git clone https://github.com/gagan23baghel/StockAi-Predictor.git
+   cd StockAi-Predictor
    ```
 
 3. **Set Up Environment Variables**
@@ -117,7 +117,7 @@ market-forecast-app/
    - Navigate to App Settings > Secrets
    - Add your Alpha Vantage API key:
      ```toml
-     ALPHA_VANTAGE_API_KEY = "your_api_key_here"
+     ALPHA_VANTAGE_API_KEY = "TPX3Y70V4ER49J2S"
      ```
 
 4. **Deploy on Streamlit Cloud**
@@ -132,7 +132,7 @@ market-forecast-app/
    - Click "Deploy!"
 
 5. **Access Your App**
-   - URL format: `https://YOUR_USERNAME-stockai-predictor-pro.streamlit.app`
+   - URL format: `https://gagan23baghel-StockAi-Predictor.streamlit.app`
    - Share with your users!
 
 ## 📊 How to Use
